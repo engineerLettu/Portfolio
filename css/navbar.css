@@ -55,7 +55,16 @@ body {
 
 .navbar-icons {
   justify-content: flex-end;
+  align-items: center;
+  padding: 5px;
 }
 
 .navbar-icon-theme {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #222222;
+  border-color: #1a1a1a;
 }
+
+
